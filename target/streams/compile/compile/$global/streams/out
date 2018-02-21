@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/digitalat032590/GitProjects/Cypher/src/main/scala/Cypher.scala:17:12: identifier expected but '.' found.[0m
+[0m[[0m[31merror[0m] [0m[0m    newKey..toList[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

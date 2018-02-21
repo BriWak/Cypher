@@ -1,0 +1,18 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mCypherSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCypher[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must return List(1) when given `a` and 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must return List(1, 2) when given `ab` and 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must return List(24, 25, 26) when given `xyz` and 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must return List(2) when given `a` and 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must return List(2, 3) when given `ab` and 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must return List(2, 4) when given `ab` and 12[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLetter to Number[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must return 1 when given `a`[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must return 26 when given `z`[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSplit Key[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must return List(1) when given 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must return List(1, 2) when given 12[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mExpand keys[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must return List(1, 2, 1, 2) when given List(1, 2) and length 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must return List(2, 1, 2, 1) when given List(2, 1) and length 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must return List(2, 1, 2, 1, 2) when given List(2,1) and length 5[0m[0m

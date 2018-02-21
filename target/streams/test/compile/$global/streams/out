@@ -1,0 +1,11 @@
+[0m[[0m[31merror[0m] [0m[0m/home/digitalat032590/GitProjects/Cypher/src/test/scala/CypherSpec.scala:45:24: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Int(1)[0m
+[0m[[0m[31merror[0m] [0m[0m required: String[0m
+[0m[[0m[31merror[0m] [0m[0m      Cypher.splitKeys(1) mustEqual List(1)[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/digitalat032590/GitProjects/Cypher/src/test/scala/CypherSpec.scala:49:24: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Int(12)[0m
+[0m[[0m[31merror[0m] [0m[0m required: String[0m
+[0m[[0m[31merror[0m] [0m[0m      Cypher.splitKeys(12) mustEqual List(1, 2)[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
