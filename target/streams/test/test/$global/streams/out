@@ -1,8 +1,10 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(CypherSpec, org.scalatest.tools.Framework$$anon$1@34140599, false, [SuiteSelector])[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 156 milliseconds.[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 13[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 13, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(CypherSpec, org.scalatest.tools.Framework$$anon$1@6e79ea72, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(DecoderSpec, org.scalatest.tools.Framework$$anon$1@6e79ea72, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 178 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 21[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 2, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 21, failed 0, canceled 0, ignored 0, pending 0[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DecoderSpec[0m
 [0m[[0m[0mdebug[0m] [0m[0m	CypherSpec[0m

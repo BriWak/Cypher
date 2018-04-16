@@ -6,6 +6,7 @@
 [0m[[0m[0minfo[0m] [0m[0m[32m- must return List(2) when given `a` and 1[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- must return List(2, 3) when given `ab` and 1[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- must return List(2, 4) when given `ab` and 12[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must return List(14,...2,8) when given 'masterpiece' and 1939[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mLetter to Number[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- must return 1 when given `a`[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- must return 26 when given `z`[0m[0m
